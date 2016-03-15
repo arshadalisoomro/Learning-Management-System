@@ -1,0 +1,22 @@
+1. Java for Beginners
+CourseID0 Java for Beginners: 
+Kirill Lavrik;	TaskId 0;	Task type: LAB; Ball: 5
+Kirill Lavrik;	TaskId 1;	Task type: TEST; Ball: 4
+Kirill Lavrik;	TaskId 2;	Task type: LAB; Ball: 4
+Kirill Lavrik;	TaskId 3;	Task type: TEST; Ball: 3
+Olga Petryk;	TaskId 0;	Task type: LAB; Ball: 5
+Olga Petryk;	TaskId 1;	Task type: TEST; Ball: 5
+Olga Petryk;	TaskId 2;	Task type: LAB; Ball: 5
+Olga Petryk;	TaskId 3;	Task type: TEST; Ball: 5
+2. Programming FrontEnd
+CourseID1 Programming FrontEnd: 
+There are no any notes in the gradebook!
+3. Software Testing
+CourseID2 Software Testing: 
+There are no any notes in the gradebook!
+4. Telecommunication Systems
+CourseID3 Telecommunication Systems: 
+There are no any notes in the gradebook!
+5. Java fo
+CourseID4 Java fo: 
+There are no any notes in the gradebook!
